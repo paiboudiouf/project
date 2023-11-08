@@ -1,0 +1,258 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo{
+    margin: 00px;
+    height: 100px;
+    background-color: black;
+    ;
+
+  
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    height: 0px;
+    justify-content: end;
+
+
+}
+.menu li{
+    margin: 30px;
+    list-style-type: none;
+    width: 50px;
+    height: 50px;  
+    float: left ;
+   
+    
+   
+}
+.menu li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255); ;
+
+}
+form{
+    padding: 00px;
+    margin: 10px;
+    
+}
+
+.title{
+    text-align: center;
+    margin: 70px;
+
+}
+
+.Accueil{
+    text-align: center;
+    background-color:rgb(255, 129, 192); 
+    margin: 50px;
+}
+.btn-Rendez-vous{
+    padding: 10px  10px;
+    background-color:rgb(255, 129, 192);  
+    margin-top: -25px;
+    text-transform: uppercase;
+
+}
+.row{
+    display: flex;
+     margin: 50px;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.lieu{
+    display: flex;
+    margin: 00px;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+}
+.title2{
+    margin: 50px;
+}
+
+
+.title3{
+    color:rgb(228, 63, 145); 
+    
+}
+.style1{
+    text-align: center;
+    margin: 400px;
+    height: 200px;
+}
+    
+.A_propos{
+    text-align: center;
+    background-color: rgb(255, 243, 243);
+    margin: 00px;
+    
+} 
+
+.about1{
+    display: flex;
+    margin: 100px;
+    justify-content: center
+
+    ;
+}
+
+
+.dmenu{display: flex;
+    text-align: center;
+    margin: 0 80px;
+
+}
+.dmenu1{
+    margin: 40px;
+}
+.imageD{
+    display: flex;
+    justify-content: center;;
+}
+
+
+.imageE{
+    display: flex;
+    justify-content: center
+;
+} 
+
+.Prix{
+    text-align: center;
+    margin: 100px;
+}
+
+.liste{
+    display: flex;
+justify-content: center;
+margin: 100px;
+;
+}
+.listea{
+    margin: 0 100px;;
+}
+.listeb{
+    margin: 0 100px;;
+}
+.listec{
+    margin: 0 100px;;
+}
+
+.last{
+    text-align: center;
+    margin: 100px;
+    position: relative;
+
+}
+
+.last1{
+margin: 30px;
+}
+.desc{
+    text-align: center;
+    margin: 20px;
+    ;
+}
+
+.Temoignage{
+    display: flex;
+    margin: 70px;
+    text-align: center;
+    justify-content: center;
+}
+
+.Temoignage1{
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+    text-align: center;
+;
+}
+.Temoignage2{
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+    text-align: center;
+}
+
+.Temoignages{
+    display: flex;
+    margin: 70px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.Temoignages1{
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+    text-align: center;
+}
+
+.Temoignages2{
+   
+    background-color: rgb(238, 238, 238);
+    margin: 20px;
+    text-align: center;
+}
+
+
+.Contact{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(255, 129, 192); 
+
+    
+}
+.contact1{
+    margin: 0 100px;
+    color: rgb(255, 255, 255);
+
+}
+.contact2{
+    max-width:0 100px;
+    color: rgb(255, 255, 255);
+
+}
+
+.contact3{
+    margin:0 100px;
+    color: rgb(255, 255, 255);
+}
+
+.footer{
+    margin: 0 10x;
+    background-color: black;
+    text-align: center;color: rgb(255, 255, 255)
+    ;
+   
+}
+.copyright{
+    padding: 20px 40px;
+    border-top:  2px solid, rgb(0, 0, 0, 0, 1 );
+    text-align: center;
+}
+header.sticky{
+background-color: ghostwhite ;
+padding: 10px 10px ;
+box-shadow: 0px 5px 20px rgba(0, 0, 0, 0,05);
+
+}
+
+header.sticky. li a {
+color: rgb(255, 255, 255);
+}
